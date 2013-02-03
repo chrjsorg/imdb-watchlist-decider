@@ -3,7 +3,7 @@
 This script is just a proof of concept. It's not for general usage. Probably Imdb forbids the usage.
 Use it at your own risk.
 
-It will login in your Imdb Account and gets a random movie from your watchlist. 
+It will login into your Imdb Account and gets a random movie from your watchlist. 
 oAuth login (Google, Facebook, ..) is not supported.
 
 It's also almost ready to return a movie from your recommendations, the code is there, but is does not work.
